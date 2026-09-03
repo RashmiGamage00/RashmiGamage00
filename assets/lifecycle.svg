@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 190" width="940" height="190" role="img" aria-label="How a defect moves through my workflow">
+  <rect width="940" height="190" rx="10" fill="#160D24" stroke="#8B2FF0" stroke-width="1" stroke-opacity=".38"/>
+  <text x="30" y="34" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" font-weight="700"
+        letter-spacing="3" fill="#B366FF">DEFECT LIFECYCLE</text>
+  <text x="910" y="34" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11" font-weight="600"
+        letter-spacing="1.4" fill="#8A7FA6" text-anchor="end">NOTHING SKIPS A STEP</text>
+  <line x1="88" y1="92" x2="852" y2="92" stroke="#B366FF" stroke-width="1.4" opacity=".3"/>
+  
+    <g>
+      <rect x="77.0" y="81" width="22" height="22" rx="4" fill="#0E0718"
+            stroke="#B366FF" stroke-width="1.6" transform="rotate(45 88.0 92)"/>
+      <circle cx="88.0" cy="92" r="4" fill="#B366FF">
+        <animate attributeName="fill" values="#B366FF;#5EEAD4;#B366FF" dur="5s"
+                 begin="0.0s" repeatCount="indefinite"/>
+      </circle>
+      <text x="88.0" y="62" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700"
+            letter-spacing="1.5" fill="#F3ECFF" text-anchor="middle">FOUND</text>
+      <text x="88.0" y="132" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5"
+            fill="#8A7FA6" text-anchor="middle">exploratory pass</text>
+    </g>
+    <g>
+      <rect x="268.0" y="81" width="22" height="22" rx="4" fill="#0E0718"
+            stroke="#B366FF" stroke-width="1.6" transform="rotate(45 279.0 92)"/>
+      <circle cx="279.0" cy="92" r="4" fill="#B366FF">
+        <animate attributeName="fill" values="#B366FF;#5EEAD4;#B366FF" dur="5s"
+                 begin="1.0s" repeatCount="indefinite"/>
+      </circle>
+      <text x="279.0" y="62" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700"
+            letter-spacing="1.5" fill="#F3ECFF" text-anchor="middle">REPRODUCED</text>
+      <text x="279.0" y="132" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5"
+            fill="#8A7FA6" text-anchor="middle">twice, cleanly</text>
+    </g>
+    <g>
+      <rect x="459.0" y="81" width="22" height="22" rx="4" fill="#0E0718"
+            stroke="#B366FF" stroke-width="1.6" transform="rotate(45 470.0 92)"/>
+      <circle cx="470.0" cy="92" r="4" fill="#B366FF">
+        <animate attributeName="fill" values="#B366FF;#5EEAD4;#B366FF" dur="5s"
+                 begin="2.0s" repeatCount="indefinite"/>
+      </circle>
+      <text x="470.0" y="62" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700"
+            letter-spacing="1.5" fill="#F3ECFF" text-anchor="middle">DOCUMENTED</text>
+      <text x="470.0" y="132" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5"
+            fill="#8A7FA6" text-anchor="middle">steps + evidence</text>
+    </g>
+    <g>
+      <rect x="650.0" y="81" width="22" height="22" rx="4" fill="#0E0718"
+            stroke="#B366FF" stroke-width="1.6" transform="rotate(45 661.0 92)"/>
+      <circle cx="661.0" cy="92" r="4" fill="#B366FF">
+        <animate attributeName="fill" values="#B366FF;#5EEAD4;#B366FF" dur="5s"
+                 begin="3.0s" repeatCount="indefinite"/>
+      </circle>
+      <text x="661.0" y="62" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700"
+            letter-spacing="1.5" fill="#F3ECFF" text-anchor="middle">FILED</text>
+      <text x="661.0" y="132" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5"
+            fill="#8A7FA6" text-anchor="middle">jira, prioritised</text>
+    </g>
+    <g>
+      <rect x="841.0" y="81" width="22" height="22" rx="4" fill="#0E0718"
+            stroke="#B366FF" stroke-width="1.6" transform="rotate(45 852.0 92)"/>
+      <circle cx="852.0" cy="92" r="4" fill="#B366FF">
+        <animate attributeName="fill" values="#B366FF;#5EEAD4;#B366FF" dur="5s"
+                 begin="4.0s" repeatCount="indefinite"/>
+      </circle>
+      <text x="852.0" y="62" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700"
+            letter-spacing="1.5" fill="#F3ECFF" text-anchor="middle">VERIFIED</text>
+      <text x="852.0" y="132" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5"
+            fill="#8A7FA6" text-anchor="middle">by me, not the dev</text>
+    </g>
+  <circle r="6" fill="#5EEAD4">
+    <animate attributeName="cx" values="88;852" dur="5s" repeatCount="indefinite"
+             calcMode="spline" keySplines="0.45 0 0.55 1" keyTimes="0;1"/>
+    <animate attributeName="cy" values="92;92" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="470.0" y="174" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#8A7FA6"
+        text-anchor="middle">A bug nobody can reproduce is just a rumour.</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 292" width="380" height="292" role="img" aria-label="Most used languages">
+  <rect width="380" height="292" rx="10" fill="#160D24" stroke="#8B2FF0" stroke-width="1" stroke-opacity=".38"/>
+  <text x="26" y="34" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700"
+        letter-spacing="2.8" fill="#B366FF">LANGUAGE MIX</text>
+  <text x="26" y="50" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#8A7FA6">by bytes across public repositories</text>
+  <rect x="26.00" y="62" width="158.42" height="11" rx="5.5" fill="#4A1580"/><rect x="31.50" y="62" width="152.92" height="11" fill="#4A1580"/><rect x="184.42" y="62" width="103.05" height="11" fill="#6A22B4"/><rect x="287.48" y="62" width="36.15" height="11" fill="#8B2FF0"/><rect x="323.62" y="62" width="23.46" height="11" fill="#A354F5"/><rect x="347.08" y="62" width="6.92" height="11" rx="5.5" fill="#BB7CF8"/><rect x="347.08" y="62" width="1.42" height="11" fill="#BB7CF8"/>
+  
+  <circle cx="32" cy="96" r="5" fill="#4A1580"/>
+  <text x="46" y="100" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#D9C4FF">Java</text>
+  <text x="354" y="100" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="600"
+        fill="#B366FF" text-anchor="end">48.3%</text>
+  <circle cx="32" cy="120" r="5" fill="#6A22B4"/>
+  <text x="46" y="124" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#D9C4FF">JavaScript</text>
+  <text x="354" y="124" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="600"
+        fill="#B366FF" text-anchor="end">31.4%</text>
+  <circle cx="32" cy="144" r="5" fill="#8B2FF0"/>
+  <text x="46" y="148" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#D9C4FF">CSS</text>
+  <text x="354" y="148" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="600"
+        fill="#B366FF" text-anchor="end">11.0%</text>
+  <circle cx="32" cy="168" r="5" fill="#A354F5"/>
+  <text x="46" y="172" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#D9C4FF">HTML</text>
+  <text x="354" y="172" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="600"
+        fill="#B366FF" text-anchor="end">7.2%</text>
+  <circle cx="32" cy="192" r="5" fill="#BB7CF8"/>
+  <text x="46" y="196" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#D9C4FF">Python</text>
+  <text x="354" y="196" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="600"
+        fill="#B366FF" text-anchor="end">2.1%</text>
+  <line x1="26" y1="244" x2="354" y2="244" stroke="#B366FF" stroke-width="1" opacity=".16"/>
+  <text x="26" y="264" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="8.6" font-weight="600"
+        letter-spacing="1.5" fill="#8A7FA6">4 PUBLIC REPOSITORIES &#183; REFRESHED DAILY</text>
+</svg>

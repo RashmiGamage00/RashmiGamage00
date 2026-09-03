@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Rashmi Gamage, Quality Assurance Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0E0718"/>
+      <stop offset="58%" stop-color="#1B0B36"/>
+      <stop offset="100%" stop-color="#2B0A5E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="46%" r="52%">
+      <stop offset="0%" stop-color="#8B2FF0" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#8B2FF0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B366FF" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#B366FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F3ECFF"/>
+      <stop offset="70%" stop-color="#D9C4FF"/>
+      <stop offset="100%" stop-color="#B366FF"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="330" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect x="0" y="0" width="16" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="19" y="0" width="6" height="330" fill="#FFFFFF" opacity="0.062"/><rect x="49" y="0" width="6" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="79" y="0" width="23" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="124" y="0" width="20" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="148" y="0" width="14" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="169" y="0" width="18" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="200" y="0" width="11" height="330" fill="#FFFFFF" opacity="0.062"/><rect x="216" y="0" width="21" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="243" y="0" width="25" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="289" y="0" width="15" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="307" y="0" width="22" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="353" y="0" width="11" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="381" y="0" width="12" height="330" fill="#FFFFFF" opacity="0.062"/><rect x="398" y="0" width="26" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="433" y="0" width="26" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="482" y="0" width="20" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="506" y="0" width="21" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="539" y="0" width="11" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="553" y="0" width="23" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="579" y="0" width="15" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="616" y="0" width="14" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="654" y="0" width="18" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="693" y="0" width="29" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="740" y="0" width="12" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="759" y="0" width="11" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="781" y="0" width="6" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="801" y="0" width="15" height="330" fill="#FFFFFF" opacity="0.062"/><rect x="836" y="0" width="22" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="866" y="0" width="26" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="898" y="0" width="22" height="330" fill="#FFFFFF" opacity="0.062"/><rect x="936" y="0" width="13" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="969" y="0" width="7" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="991" y="0" width="14" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="1008" y="0" width="24" height="330" fill="#FFFFFF" opacity="0.062"/><rect x="1039" y="0" width="21" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="1064" y="0" width="6" height="330" fill="#FFFFFF" opacity="0.045"/><rect x="1092" y="0" width="6" height="330" fill="#FFFFFF" opacity="0.062"/><rect x="1102" y="0" width="22" height="330" fill="#FFFFFF" opacity="0.03"/><rect x="1141" y="0" width="14" height="330" fill="#FFFFFF" opacity="0.062"/><rect x="1173" y="0" width="22" height="330" fill="#FFFFFF" opacity="0.018"/><rect x="1198" y="0" width="25" height="330" fill="#FFFFFF" opacity="0.03"/>
+    <rect width="1200" height="330" fill="url(#glow)"/>
+
+    <!-- radar -->
+    <g>
+      <circle cx="985" cy="165" r="96" fill="none" stroke="#B366FF" stroke-width="1" opacity="0.55"/><circle cx="985" cy="165" r="65.28" fill="none" stroke="#B366FF" stroke-width="1" opacity="0.32"/><circle cx="985" cy="165" r="34.56" fill="none" stroke="#B366FF" stroke-width="1" opacity="0.2"/>
+      <path d="M985 165 L1081 165 A96 96 0 0 0 1071.976 124.392 Z" fill="url(#sweep)">
+        <animateTransform attributeName="transform" type="rotate"
+          from="0 985 165" to="360 985 165" dur="4.4s" repeatCount="indefinite"/>
+      </path>
+      <line x1="889" y1="165" x2="1081" y2="165" stroke="#B366FF" stroke-width="1" opacity=".22"/>
+      <line x1="985" y1="69" x2="985" y2="261" stroke="#B366FF" stroke-width="1" opacity=".22"/>
+      <g>
+      <circle cx="941" cy="127" r="4.5" fill="#5EEAD4"/>
+      <circle cx="941" cy="127" r="4.5" fill="none" stroke="#5EEAD4" stroke-width="1.4">
+        <animate attributeName="r" values="4.5;16" dur="3.6s" begin="0.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".9;0" dur="3.6s" begin="0.0s" repeatCount="indefinite"/>
+      </circle>
+    </g><g>
+      <circle cx="1019" cy="191" r="4.5" fill="#5EEAD4"/>
+      <circle cx="1019" cy="191" r="4.5" fill="none" stroke="#5EEAD4" stroke-width="1.4">
+        <animate attributeName="r" values="4.5;16" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".9;0" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+    </g><g>
+      <circle cx="967" cy="219" r="4.5" fill="#5EEAD4"/>
+      <circle cx="967" cy="219" r="4.5" fill="none" stroke="#5EEAD4" stroke-width="1.4">
+        <animate attributeName="r" values="4.5;16" dur="3.6s" begin="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".9;0" dur="3.6s" begin="2.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+      <text x="985" y="287" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11" font-weight="600"
+            letter-spacing="2.6" fill="#8A7FA6" text-anchor="middle">SCANNING</text>
+    </g>
+
+    <!-- wordmark -->
+    <text x="60" y="120" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="66" font-weight="800"
+          letter-spacing="-1.4" fill="url(#name)">RASHMI GAMAGE</text>
+    <text x="62" y="158" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="15" font-weight="600"
+          letter-spacing="5.2" fill="#B366FF">QUALITY ASSURANCE ENGINEER</text>
+
+    <text x="62" y="205" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="400" fill="#D9C4FF">
+      I find the bugs before your users do.</text>
+
+    <line x1="60" y1="238" x2="700" y2="238" stroke="#B366FF" stroke-width="1" opacity=".28"/>
+    <path d="M64 268 l5 5 l9 -11" fill="none" stroke="#5EEAD4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;1;1;1;0" dur="6s" begin="0.0s" repeatCount="indefinite"/></path><path d="M94 268 l5 5 l9 -11" fill="none" stroke="#5EEAD4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;1;1;1;0" dur="6s" begin="0.35s" repeatCount="indefinite"/></path><path d="M124 268 l5 5 l9 -11" fill="none" stroke="#5EEAD4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;1;1;1;0" dur="6s" begin="0.7s" repeatCount="indefinite"/></path><path d="M154 268 l5 5 l9 -11" fill="none" stroke="#5EEAD4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;1;1;1;0" dur="6s" begin="1.0499999999999998s" repeatCount="indefinite"/></path><path d="M184 268 l5 5 l9 -11" fill="none" stroke="#5EEAD4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;1;1;1;0" dur="6s" begin="1.4s" repeatCount="indefinite"/></path><path d="M214 268 l5 5 l9 -11" fill="none" stroke="#5EEAD4" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0"><animate attributeName="opacity" values="0;1;1;1;0" dur="6s" begin="1.75s" repeatCount="indefinite"/></path>
+    <text x="252" y="273" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="12" font-weight="600"
+          letter-spacing="1.8" fill="#8A7FA6">6 SUITES PASSED &#183; 0 FAILED &#183; 0 SKIPPED</text>
+
+    <g>
+      <circle cx="1126" cy="34" r="5" fill="#5EEAD4">
+        <animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="1112" y="38" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="11" font-weight="600"
+            letter-spacing="1.6" fill="#5EEAD4" text-anchor="end">OPEN TO QA ROLES</text>
+    </g>
+
+    <rect width="1200" height="330" fill="none" stroke="#8B2FF0" stroke-width="1" opacity=".4" rx="10"/>
+  </g>
+</svg>
